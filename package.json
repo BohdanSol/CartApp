@@ -28,6 +28,7 @@
     "@babel/core": "^7.12.9",
     "@babel/runtime": "^7.12.5",
     "@react-native-community/eslint-config": "^2.0.0",
+    "@storybook/addon-a11y": "^6.5.9",
     "@storybook/addon-actions": "6.3",
     "@storybook/addon-controls": "6.3",
     "@storybook/addon-docs": "^6.5.9",

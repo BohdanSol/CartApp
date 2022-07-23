@@ -82,7 +82,7 @@ export const CartItem = ({ name, price, quantity, imageURI, code, controlsColor 
   }
 
   const decrease = () => {
-    setAmount(amount - 1 > 0 ? amount - 1 : 0);
+    setAmount(amount - 1 > 1 ? amount - 1 : 1);
   }
 
   return (
