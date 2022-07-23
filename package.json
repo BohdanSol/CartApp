@@ -13,7 +13,7 @@
     "storybook-watcher": "sb-rn-watcher --config-path .ondevice",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "chromatic --project-token=78b10cf51501"
+    "chromatic": "chromatic --project-token=51580a9772e4"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.17.3",

@@ -26,7 +26,7 @@ const styles = StyleSheet.create({
   },
   buttonContainer: {
     alignItems: 'flex-start',
-    marginHorizontal: 16,
+    marginHorizontal: 26,
   },
 });
 
