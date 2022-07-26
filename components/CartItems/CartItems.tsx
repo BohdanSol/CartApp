@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
     height: 150,
   },
   indicatorText: {
-    marginTop: 16,
+    marginTop: 20,
     color: '#999',
     fontSize: 18,
     fontWeight: 'bold',
